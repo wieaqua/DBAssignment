@@ -11,7 +11,7 @@
  Target Server Version : 80031 (8.0.31)
  File Encoding         : 65001
 
- Date: 02/12/2022 13:47:12
+ Date: 02/12/2022 14:23:43
 */
 
 SET NAMES utf8mb4;
@@ -31,6 +31,106 @@ CREATE TABLE `phrase`  (
 -- ----------------------------
 -- Records of phrase
 -- ----------------------------
+INSERT INTO `phrase` VALUES (1, 'cut back on', '…削减……-；减少； 缩减');
+INSERT INTO `phrase` VALUES (2, 'cut back on production', '削减产量');
+INSERT INTO `phrase` VALUES (3, 'cut down', '砍倒；削减……');
+INSERT INTO `phrase` VALUES (4, 'cut in', '插队，插嘴');
+INSERT INTO `phrase` VALUES (5, 'cut off', '切断，中断（电，煤气等）');
+INSERT INTO `phrase` VALUES (6, 'cut up', '切碎；伤心');
+INSERT INTO `phrase` VALUES (7, 'cut out', '停止，裁剪出');
+INSERT INTO `phrase` VALUES (8, 'spring up', '突然兴起；迅速出现');
+INSERT INTO `phrase` VALUES (9, 'break up', '击碎，破碎，粉碎；分开，分手，分散');
+INSERT INTO `phrase` VALUES (10, 'build up', '建立');
+INSERT INTO `phrase` VALUES (11, 'build up one s strength', '增强体质');
+INSERT INTO `phrase` VALUES (12, 'bring up', '抚养长大');
+INSERT INTO `phrase` VALUES (13, 'clear up', '打扫干净；天气放晴');
+INSERT INTO `phrase` VALUES (14, 'give up', '放弃');
+INSERT INTO `phrase` VALUES (15, 'stay up', '熬夜');
+INSERT INTO `phrase` VALUES (16, 'look up', '抬头看');
+INSERT INTO `phrase` VALUES (17, 'look up to sb', '尊敬某人');
+INSERT INTO `phrase` VALUES (18, 'look sth up in a dictionary', '查字典');
+INSERT INTO `phrase` VALUES (19, 'make up one’s mind to do sth', '下定决心做某事');
+INSERT INTO `phrase` VALUES (20, 'make up', '形成，杜撰，编造，弥补，打扮');
+INSERT INTO `phrase` VALUES (21, 'hold up', '举起，抢劫，交通堵塞');
+INSERT INTO `phrase` VALUES (22, 'set up', '建立');
+INSERT INTO `phrase` VALUES (23, 'turn up', '出现，把声音调大');
+INSERT INTO `phrase` VALUES (24, 'pick up', '捡起拾起，拿起，收集，整理，承载，偶然获得，学会，索取，付账，赢得，恢复');
+INSERT INTO `phrase` VALUES (25, 'keep up', '保持，坚持，维持');
+INSERT INTO `phrase` VALUES (26, 'keep up with sth', '赶上');
+INSERT INTO `phrase` VALUES (27, 'take up', '占据(时间空间)，开始从事，拿起');
+INSERT INTO `phrase` VALUES (28, 'break down', '机器等）出故障，汽车抛锚；谈判通讯等中断；身体垮了；感情控制不住（哭起来，笑起来）；（化学物等）分解，瓦解');
+INSERT INTO `phrase` VALUES (29, 'break in', '（强盗等）强行闯入；打岔（无被动）');
+INSERT INTO `phrase` VALUES (30, 'break into', '破门而入');
+INSERT INTO `phrase` VALUES (31, 'break out', ' (战争，火灾等)爆发');
+INSERT INTO `phrase` VALUES (32, 'break away', '逃跑，摆脱');
+INSERT INTO `phrase` VALUES (33, 'break away from', '从……中摆脱');
+INSERT INTO `phrase` VALUES (34, 'break up', '击碎，粉碎，破碎；分手,分散，分离 （书本词组）');
+INSERT INTO `phrase` VALUES (35, 'break through', '突破');
+INSERT INTO `phrase` VALUES (36, 'take over', '接替，接管，接手');
+INSERT INTO `phrase` VALUES (37, 'take off', '起飞；脱衣；开始成名；事业腾飞(career)');
+INSERT INTO `phrase` VALUES (38, 'take in', '吸收；理解；欺骗；把……拿进来');
+INSERT INTO `phrase` VALUES (39, 'take on', '呈现');
+INSERT INTO `phrase` VALUES (40, 'take on a new look', '呈现');
+INSERT INTO `phrase` VALUES (41, 'take on a responsibility', '承担');
+INSERT INTO `phrase` VALUES (42, 'take on sb', '雇佣');
+INSERT INTO `phrase` VALUES (43, 'take on', '接纳，受欢迎');
+INSERT INTO `phrase` VALUES (44, 'take up', '拿起；占据（时间，空间）；开始从事于……');
+INSERT INTO `phrase` VALUES (45, 'take after', '长得像某人');
+INSERT INTO `phrase` VALUES (46, 'take to doing sth', '开始喜欢做某事；开始……上瘾');
+INSERT INTO `phrase` VALUES (47, 'take sth apart', '把某物拆开');
+INSERT INTO `phrase` VALUES (48, 'take it easy', '放心好了');
+INSERT INTO `phrase` VALUES (49, 'take one’s time', '别急，慢慢来');
+INSERT INTO `phrase` VALUES (50, 'take it seriously', '把某事当真');
+INSERT INTO `phrase` VALUES (51, 'take advantage of', '利用');
+INSERT INTO `phrase` VALUES (52, 'make use of…', '利用');
+INSERT INTO `phrase` VALUES (53, 'at a time', '一次');
+INSERT INTO `phrase` VALUES (54, 'in no time', '立刻（不倒装）');
+INSERT INTO `phrase` VALUES (55, 'at one time', '曾经');
+INSERT INTO `phrase` VALUES (56, 'at no time', '绝不 （倒装）');
+INSERT INTO `phrase` VALUES (57, 'at times', '有时候');
+INSERT INTO `phrase` VALUES (58, 'ahead of time', '提前');
+INSERT INTO `phrase` VALUES (59, 'for the time being', '暂时，目前');
+INSERT INTO `phrase` VALUES (60, 'at present', '暂时，目前');
+INSERT INTO `phrase` VALUES (61, 'from time to time ', '时不时地');
+INSERT INTO `phrase` VALUES (62, 'for the first time', '第一次（ 时间状语，一个句子）');
+INSERT INTO `phrase` VALUES (63, 'the first time', '第一次（连词，连接两个句子）');
+INSERT INTO `phrase` VALUES (64, 'This/It’s the first time that sb has / have done', '这是某人第一次做……');
+INSERT INTO `phrase` VALUES (65, 'There was a time when…', '曾经有一段时间（定语从句）');
+INSERT INTO `phrase` VALUES (66, 'a solution to', '……的解决办法');
+INSERT INTO `phrase` VALUES (67, 'a key to', '……-的钥匙、关键');
+INSERT INTO `phrase` VALUES (68, 'an invitation to', '……的诱因');
+INSERT INTO `phrase` VALUES (69, 'an answer to', '……的答案');
+INSERT INTO `phrase` VALUES (70, 'an entrances to', '……的入口');
+INSERT INTO `phrase` VALUES (71, 'an introduction to', '……的介绍/序言');
+INSERT INTO `phrase` VALUES (72, 'an approach to', '……的方法');
+INSERT INTO `phrase` VALUES (73, 'an access to', '……的通道');
+INSERT INTO `phrase` VALUES (74, 'on the run', '躲避，忙碌，不停奔波');
+INSERT INTO `phrase` VALUES (75, 'run over', '车辆将……碾过；液体溢出');
+INSERT INTO `phrase` VALUES (76, 'run into sb', '偶遇，碰上');
+INSERT INTO `phrase` VALUES (77, 'come across sb', '偶遇，碰上');
+INSERT INTO `phrase` VALUES (78, 'run across sb', '偶遇，碰上');
+INSERT INTO `phrase` VALUES (79, 'meet sb by chance', '偶遇，碰上');
+INSERT INTO `phrase` VALUES (80, 'run after ', '追赶……');
+INSERT INTO `phrase` VALUES (81, 'chase after', '追逐……');
+INSERT INTO `phrase` VALUES (82, 'run away', '逃跑');
+INSERT INTO `phrase` VALUES (83, 'sb. run out of sth.', '用光，用完');
+INSERT INTO `phrase` VALUES (84, 'run for', '竞选');
+INSERT INTO `phrase` VALUES (85, 'put off', '推迟');
+INSERT INTO `phrase` VALUES (86, 'put out', '扑灭关（灯）；公布,出版');
+INSERT INTO `phrase` VALUES (87, 'put down', '写下，记下，放下；镇压');
+INSERT INTO `phrase` VALUES (88, 'put on', '穿衣服；增加；上演');
+INSERT INTO `phrase` VALUES (89, 'put forward', '提出（建议、计划、主意等）/ 拨快钟表');
+INSERT INTO `phrase` VALUES (90, 'put aside', '把……放在一边；储蓄（金钱）');
+INSERT INTO `phrase` VALUES (91, 'put away', '把……收拾起来；储蓄金钱');
+INSERT INTO `phrase` VALUES (92, 'put up', '张贴，支起，忍受，留宿');
+INSERT INTO `phrase` VALUES (93, 'put up for sale', '拿出来出售');
+INSERT INTO `phrase` VALUES (94, 'turn up', '出现；露面；把音量调高');
+INSERT INTO `phrase` VALUES (95, 'turn down', '①拒绝 ②把音量调低');
+INSERT INTO `phrase` VALUES (96, 'turn on', '打开');
+INSERT INTO `phrase` VALUES (97, 'turn off', '关闭');
+INSERT INTO `phrase` VALUES (98, 'turn in', '上交');
+INSERT INTO `phrase` VALUES (99, 'hand in', '上交');
+INSERT INTO `phrase` VALUES (100, 'turn over', '翻转过来');
 
 -- ----------------------------
 -- Table structure for sentence
